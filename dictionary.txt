@@ -1,0 +1,13 @@
+d = {
+    "Abdominal": ["abdominal", "abdomen", "ascities", "ascites", "paracent", "hernia", "inguinal", "mesenteric", "paracentesis", " abd ", "ruq", "peritoneal"],
+    "Gastrointestinal": ["intestine", "bowel", "stool", "constipation", "ileus", "diarrhea", "colitis", "gastro", "mesenteric", "gastrointestinal", "appetite", "swallow", "gastric", "gastritis", "colon", "colostomy"],
+    "Bile duct": ["gall", "bile", "icterus", "jaundice", "ileus", "dysuria", "bladder", "pancreas", "liver", "bili", "yellow", "pancreas", "pancreatitis", "cholangitis", "cholecystectomy", "transaminitis", "cirrhosis", "heap", "esdl", "hepatitis"],
+    "Urosepsis": [" urology", "urologist", "urosepsis", "urological", "bladder", "urinary", "dysuria", "pyelonephritis", "kidney", "hydroneposis", "cystitis", "colitis", " renal ", "hemofiltration", "hemodynamic", "bph", "ureteral", " arf ", " uti", "stone", "whipple", "atn", "esrd", "urine", "hemodialysis", "urodynamic", "pyelonephritis"],
+    "Catheter-associated": ["catheter", "hickman", " line ", "cath", "porta-cath", "picc"],
+    "Endocarditis": ["myocardial", "infarction", "cardiac", "palpitation", "coronar", "aortic", "heart", "tricuspid", "mitral", "atrial", "pacemaker", "cardio", "pacer", "artery", "aneurism", "bypass", "arrhythmia", "chest", "anemic", "beta", "endocarditis", "cabg", "diastolic"],
+    "Skin and soft tissue": ["erythem", "tissue", "necrosis", "wound", " hip", "knee", "groin", "foot", "swelling", "extremity", "numb", "leg", "ulcer", "gangrene", "amputation", "debridement", "skin", "myalgia", "rash", "pruritis", "dermatitis", "pleural", "cellulitis", "abscess", "pleural", "herpes"],
+    "Bone and joints": ["osteo", "orif", "necrosis", "wound", "leucocyt", "groin", "hip", "knee", "groin", "joint", "spinal"],
+    "Neurological": ["neuro", "stroke", "lacunar", "dysarthria", "hemiparesis", "brain", "seizure"],
+    "Respiratory": ["respiratory", "pneumonia", "intubation", "emphysema", "stridor", "bronch", "throat", "trachea", "tachypnic", "pulmonary", "cough", "shortness of breath", "granulomatosis", "pna", "copd", "lung", "tachypneic", "tachypnea", "intubate", "intubation", "orthopnea", "dyspnea", "aspiration", " sob "],
+    "Non-identifiable": ["no identifiable source", "rule out sepsis", "occult", "septic shock of unclear source", "sepsis of unclear source"]
+}
