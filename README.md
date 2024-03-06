@@ -26,15 +26,15 @@ Train on labeled data to identify and extract symptoms and pathogens from clinic
 2. **Classifying Clinical Notes**\
 Approach:
 Implement a DL classification model (BERT) to categorize clinical notes based on infections.
-Train the model using labeled data, allowing it to distinguish between different infections.
+Train the model using labeled data, allowing it to distinguish between different infections. (Classification folder)
 3. **Applying Models to Unlabeled Data** \
 Transfer Learning:
 Fine-tune models on labeled data and apply them to the large corpus of 2,000,000 unlabeled noteevents for comprehensive analysis.
 4. **Clustering Symptoms**\
 Clustering Algorithm:
 Apply clustering techniques (K-means) to group similar symptoms together.
-Uncover patterns and relationships within the symptom data.
+Uncover patterns and relationships within the symptom data. (Clustering folder)
 5. **Inferring Infection Location**\
 Inference Model:
 Develop a model to infer the location of infection based on individual or sets of symptoms.
-Utilize the labeled data to train the model for accurate predictions.
+Utilize the labeled data to train the model for accurate predictions. (last task folder --> read alternative_class_rf.ipynb first)
