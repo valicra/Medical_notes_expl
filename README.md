@@ -22,7 +22,7 @@ Labels indicating the source of infection and affected organs
 1. **Identifying Symptoms and Pathogens** \
 Approach:
 Utilize NLP models (spaCy) for Named Entity Recognition (NER).
-Train on labeled data to identify and extract symptoms and pathogens from clinical notes.
+Train on labeled data to identify and extract symptoms and pathogens from clinical notes. (NER folder)
 2. **Classifying Clinical Notes**\
 Approach:
 Implement a DL classification model (BERT) to categorize clinical notes based on infections.
